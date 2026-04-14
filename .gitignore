@@ -1,0 +1,14 @@
+# Model file (too large for GitHub, auto-trained on first run)
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit config
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
